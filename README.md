@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Pahuja!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Singh+Sikarwar!;" />
 </h1>
 <div align="center">
   <br>
@@ -19,17 +19,17 @@
 
 🌱 I’m looking to contribute in **Open Source**
 
-💬 Visit my portfolio: **[Portfolio Website](https://aryan-pahuja.vercel.app)**
+💬 Visit my portfolio: **[Portfolio Website](https://portfolio-teal-phi-19.vercel.app/)**
 
 ⚡Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. Just like honey, my code stands the test of time – sweet and everlasting!
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:aryanpahuja1421@gmail.com">
+  <a href="mailto:aman.s.s.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/aryanpahuja21" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-singh-sikarwar-02/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
